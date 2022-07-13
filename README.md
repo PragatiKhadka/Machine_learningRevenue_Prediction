@@ -6,7 +6,7 @@ The project is based on Machine Learning. The objective is to make a model to pr
 
 ### Installation
 The libraries on the `requirements.txt` should be installed in order to run the program.
-Generally `pip install requirements.txt` is used for installation.
+Use `pip install requirements.txt` for installation.
 
 ### Usage  
 Follow these steps to run the program:
