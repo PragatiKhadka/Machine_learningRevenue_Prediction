@@ -18,5 +18,5 @@ Follow these steps to run the program:
 5. Run the `ml_model.py` which will train and test the dataset and provide the scores for model evaluation.
 
 ### Program flow  
-![flowchart]("C://Users//user//Downloads//Machine_Learning_Workflow.jpg")
+![flowchart]("Machine_Learning_Workflow.jpg")
 
