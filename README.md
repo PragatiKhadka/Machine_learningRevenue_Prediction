@@ -2,7 +2,7 @@
 
 ### Description  
 
-The project is based on Machine Learning. The objective is to make a model to predict the company's revenue for current year based on historical data. We have the dataset from 2015-2020. 
+The project is based on Machine Learning. The objective is to make a model to predict the company's revenue for next year based on current year. We have the dataset from 2015-2020. 
 
 ### Installation
 The libraries on the `requirements.txt` should be installed in order to run the program.
@@ -21,7 +21,7 @@ Follow these steps to run the program:
 ![flowchart](Machine_Learning_Workflow.jpg)
 
 ### Output
-We tested three different models namly Linear Regression, Random Forest and XGBoost.The best results were with XGBoost. It is also one of the strongest Machine Learning models available.
+We tested three different models namly Linear Regression, Random Forest and XGBoost.The best results were with XGBoost. It is also one of the strongest Machine Learning Models available.
 
 The score of our model is the following:  
 
@@ -31,9 +31,9 @@ Therefore our model is 73% accurate.
 
 ### Future work
 1. Improve the code to predict the current revenue as there are many Null values in the current revenue.
-2. Prediction based on company category. detecting and handeling the outliers.
+2. Prediction based on company category and detecting and handling the outliers.
 3. Minimize the zero values in the staff cost based on the staff count.
-4. Find tuning the hyberparameters.
+4. Finetuning the hyperparameters.
 
 
 
