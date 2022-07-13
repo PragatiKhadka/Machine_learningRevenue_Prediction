@@ -20,3 +20,8 @@ Follow these steps to run the program:
 ### Program flow  
 ![flowchart](Machine_Learning_Workflow.jpg)
 
+### Future work
+1. Improve the code to predict the current revenue as there are many Null values in the current revenue.
+2. Prediction based on company category. detecting and handeling the outliers.
+3. Minimize the zero values in the staff cost based on the staff count.
+4. Find tuning the hyberparameters.
