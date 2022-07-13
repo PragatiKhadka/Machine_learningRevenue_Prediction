@@ -20,8 +20,19 @@ Follow these steps to run the program:
 ### Program flow  
 ![flowchart](Machine_Learning_Workflow.jpg)
 
+### Output
+We tested three different models namly Linear Regression, Random Forest and XGBoost.The best results were with XGBoost. It is also one of the strongest Machine Learning models available.
+
+The score of our model is the following:
+Coefficient of determination (R^2): 0.729 (0.239)
+
+Our model is 73% accurate. 
+
 ### Future work
 1. Improve the code to predict the current revenue as there are many Null values in the current revenue.
 2. Prediction based on company category. detecting and handeling the outliers.
 3. Minimize the zero values in the staff cost based on the staff count.
 4. Find tuning the hyberparameters.
+
+
+
