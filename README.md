@@ -23,10 +23,11 @@ Follow these steps to run the program:
 ### Output
 We tested three different models namly Linear Regression, Random Forest and XGBoost.The best results were with XGBoost. It is also one of the strongest Machine Learning models available.
 
-The score of our model is the following:
-Coefficient of determination (R^2): 0.729 (0.239)
+The score of our model is the following:  
 
-Our model is 73% accurate. 
+Coefficient of determination (R^2): 0.729 (0.239)  
+
+Therefore our model is 73% accurate. 
 
 ### Future work
 1. Improve the code to predict the current revenue as there are many Null values in the current revenue.
