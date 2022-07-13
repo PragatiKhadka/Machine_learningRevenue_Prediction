@@ -27,13 +27,10 @@ The score of our model is the following:
 
 Coefficient of determination (R^2): 0.729 (0.239)  
 
-Therefore our model is 73% accurate. 
+Therefore, our model is 73% accurate. 
 
-### Future work
+### Future works
 1. Improve the code to predict the current revenue as there are many Null values in the current revenue.
 2. Prediction based on company category and detecting and handling the outliers.
 3. Minimize the zero values in the staff cost based on the staff count.
 4. Fine tuning the hyperparameters.
-
-
-
