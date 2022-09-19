@@ -1,4 +1,4 @@
-# Revenue_Prediction
+# Revenue Prediction
 
 ### Description  
 
@@ -34,3 +34,9 @@ Therefore, our model is 73% accurate.
 2. Prediction based on company category and detecting and handling the outliers.
 3. Minimize the zero values in the staff cost based on the staff count.
 4. Fine tuning the hyperparameters.
+
+### Contributors
+* [Rana Abuthaher](https://github.com/Rana2Rana/)
+* [Jorg Vervaet](https://github.com/JorgVervaet)
+* [Pragati Khadka](https://github.com/PragatiKhadka)
+
